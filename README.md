@@ -53,7 +53,7 @@ print(f"Disposable: {email_res.is_disposable}")
 print(f"Risk Score: {email_res.risk_score}/100")
 
 # 2. Check IP Address & Datacenter Proxy
-ip_res = client.lookup_ip("185.249.227.213")
+ip_res = client.lookup_ip("8.8.8.8")
 print(f"Country: {ip_res.country}")
 print(f"Is Datacenter/Proxy: {ip_res.is_datacenter}")
 print(f"Provider: {ip_res.datacenter_name}")

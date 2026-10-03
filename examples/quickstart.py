@@ -19,7 +19,7 @@ def main():
     print(f"Risk Score: {email_res.get('risk_score')}/100")
 
     print("\n=== 2. IP Intelligence Demo ===")
-    test_ip = "185.249.227.213"
+    test_ip = "8.8.8.8"
     ip_res = client.lookup_ip(test_ip)
     print(f"Checking IP: {test_ip}")
     print(f"Datacenter/Hosting: {ip_res.get('is_datacenter_proxy')}")
