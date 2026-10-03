@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![RapidAPI](https://img.shields.io/badge/RapidAPI-Hub-0052cc.svg)](https://rapidapi.com/user/ariebintoro)
+[![RapidAPI](https://img.shields.io/badge/RapidAPI-Hub-0052cc.svg)](https://rapidapi.com/ariebintoro/api/datashield-email-verification-fraud-detection-api)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jarumgoni/masbin-dev/pulls)
 
 Official developer client library and CLI for **DataShield Fraud Intelligence APIs**. High-speed validation, risk scoring, disposable email detection, phone carrier intelligence, and datacenter proxy checks.
@@ -38,7 +38,7 @@ pip install -e .
 
 ### 2. Usage
 
-Get your API Key from [RapidAPI DataShield Console](https://rapidapi.com/user/ariebintoro).
+Get your API Key from [RapidAPI DataShield Console](https://rapidapi.com/ariebintoro/api/datashield-email-verification-fraud-detection-api).
 
 ```python
 from datashield import DataShieldClient
@@ -95,7 +95,7 @@ All requests are securely routed through RapidAPI Gateway with automatic DDoS fi
 
 ## 🤝 Community & Support
 
-* **API Portal**: [DataShield on RapidAPI Hub](https://rapidapi.com/user/ariebintoro)
+* **API Portal**: [DataShield on RapidAPI Hub](https://rapidapi.com/ariebintoro/api/datashield-email-verification-fraud-detection-api)
 * **Issues & Bug Reports**: [GitHub Issues](https://github.com/jarumgoni/masbin-dev/issues)
 * **Author**: masbin (`masbin-dev`)
 
